@@ -8,7 +8,7 @@ class Teacher:
         print(f"Teaching {student.name}")
 
 
-student = Student("Alex")
+student = Student("Zoe")
 teacher = Teacher()
 
 teacher.teach(student)
